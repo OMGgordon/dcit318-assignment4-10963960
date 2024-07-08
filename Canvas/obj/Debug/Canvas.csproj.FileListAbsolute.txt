@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\bin\Debug\Canvas.exe.config
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\bin\Debug\Canvas.exe
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\bin\Debug\Canvas.pdb
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.Properties.Resources.resources
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.exe
+C:\Users\User\Desktop\dcit318-assignment4-10963960\Canvas\obj\Debug\Canvas.pdb
