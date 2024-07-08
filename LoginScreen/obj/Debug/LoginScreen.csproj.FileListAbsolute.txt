@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\User\Desktop\dcit318-assignment4-10963960\LoginScreen\obj\Debug\LoginApp.Form1.resources
